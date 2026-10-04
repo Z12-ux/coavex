@@ -1,0 +1,343 @@
+{
+  "base": "http://localhost:3210",
+  "at": "2026-09-30T20:58:12.627Z",
+  "shots": [
+    {
+      "file": "ms01-desk-00-login.png",
+      "url": "/login",
+      "state": "Login screen (anonymous), desktop",
+      "rawKeys": []
+    },
+    {
+      "file": "ms01-desk-01-today.png",
+      "url": "/",
+      "state": "Coach Today / command center, top of page (NEXT session hero, PENDING, KPI tiles)",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-desk-01-today-full.png",
+      "url": "/",
+      "state": "Coach Today, full page (hero, pending, KPIs, done strip, attention queue)",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-desk-02-today-queue.png",
+      "url": "/",
+      "state": "Coach Today scrolled to DONE strip + attention queue",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-desk-03-profile-ahmed.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84",
+      "state": "Client profile (Ahmed Benali), overview tab, top: actions with reasons",
+      "rawKeys": [
+        "common.days28",
+        "client.coach"
+      ]
+    },
+    {
+      "file": "ms01-desk-04-profile-ahmed-signals.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84",
+      "state": "Client profile (Ahmed), scrolled to 'Signaux actifs' (observation / why / data / suggested action)",
+      "rawKeys": [
+        "common.days28",
+        "client.coach"
+      ]
+    },
+    {
+      "file": "ms01-desk-04b-profile-ahmed-signals-crop.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84",
+      "state": "Crop: Ahmed's 'Signaux actifs' column only (first cards, cut at viewport bottom)",
+      "rawKeys": [],
+      "clipped": true
+    },
+    {
+      "file": "ms01-desk-05-review.png",
+      "url": "/review",
+      "state": "Weekly review generated (per-client items with Approve / Edit / Follow-up / Ignore)",
+      "rawKeys": []
+    },
+    {
+      "file": "ms01-desk-05-review-full.png",
+      "url": "/review",
+      "state": "Weekly review generated, full page",
+      "rawKeys": []
+    },
+    {
+      "file": "ms01-desk-08a-palette-open.png",
+      "url": "/",
+      "state": "Command palette opened with Ctrl+K (recents, actions, pages)",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-desk-08b-palette-search.png",
+      "url": "/",
+      "state": "Command palette, query \"sara\"",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-desk-07-coach-workout.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84/train/cmuojxbol00hwuxq4i0rc7hbm",
+      "state": "Coach workout mode (live session logging), start state",
+      "rawKeys": [
+        "WORKOUT.EXERCISES",
+        "WORKOUT.SETS",
+        "WORKOUT.MIN",
+        "WORKOUT.MUSCLESTARGETED",
+        "workout.sets",
+        "WORKOUT.MAINLIFT",
+        "WORKOUT.REST",
+        "WORKOUT.LOGSET",
+        "WORKOUT.WRAPUP",
+        "workout.rpeHint",
+        "workout.min",
+        "workout.sessionNote"
+      ]
+    },
+    {
+      "file": "ms01-desk-07b-coach-workout-logging.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84/train/cmuojxbol00hwuxq4i0rc7hbm",
+      "state": "Coach workout mode after 2 sets logged (rest timer running)",
+      "rawKeys": [
+        "WORKOUT.EXERCISES",
+        "WORKOUT.SETS",
+        "WORKOUT.MIN",
+        "WORKOUT.MUSCLESTARGETED",
+        "workout.sets",
+        "WORKOUT.MAINLIFT",
+        "WORKOUT.REST",
+        "WORKOUT.LOGSET",
+        "WORKOUT.WRAPUP",
+        "workout.rpeHint",
+        "workout.min",
+        "workout.sessionNote"
+      ]
+    },
+    {
+      "file": "ms01-desk-07c-coach-workout-sets-crop.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84/train/cmuojxbol00hwuxq4i0rc7hbm",
+      "state": "Crop: coach workout set rows (reps / load steppers, 2 sets checked)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "ms02-attention-card-ahmed.png",
+      "url": "/",
+      "state": "Attention-queue card, Ahmed Benali (element, scale 3)",
+      "rawKeys": [],
+      "text": "AB Ahmed Benali Fait 3 séance(s) manquée(s) sur 4 prévue(s) ces 7 derniers jours. Le dernier message du client date de 192 h et n'a pas reçu de réponse. Taux de séances réalisées : 38% sur 14 jours contre 63% sur les 14 jours précédents. +6 ACTION SUIVANTE Répondre au message"
+    },
+    {
+      "file": "ms02-attention-card-mehdi.png",
+      "url": "/",
+      "state": "Attention-queue card, Mehdi Saidi (element, scale 3)",
+      "rawKeys": [],
+      "text": "MS Mehdi Saidi Fait 4 séance(s) manquée(s) sur 4 prévue(s) ces 7 derniers jours. Le check-in hebdomadaire attendu le 2026-09-28 n'a pas été envoyé (2 jours de retard). Le dernier message du client date de 72 h et n'a pas reçu de réponse. +2 ACTION SUIVANTE Répondre au message"
+    },
+    {
+      "file": "ms02-signal-card-ahmed.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84",
+      "state": "Signal card on Ahmed's profile: observation / why / data / suggested action (element, scale 3)",
+      "rawKeys": [],
+      "text": "Séances manquées URGENT OBSERVATION3 séance(s) manquée(s) sur 4 prévue(s) ces 7 derniers jours. POURQUOI C'EST IMPORTANTDeux séances manquées en une semaine réduisent fortement le stimulus hebdomadaire et précèdent souvent un décrochage. Manquées 2026-09-23 · Upper A (Manque de temps); 2026-09-26 · Upper B (Manque de temps); 2026-09-27 · Lower A (Fatigue / récupération) Prévues 4 Réalisées 1 ACTION SUGGÉRÉEDemander la raison des absences avant d'ajuster le programme. Résolu Ignorer"
+    },
+    {
+      "file": "ms02-signal-card-mehdi.png",
+      "url": "/clients/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Signal card on Mehdi's profile (element, scale 3)",
+      "rawKeys": [],
+      "text": "Séances manquées URGENT OBSERVATION4 séance(s) manquée(s) sur 4 prévue(s) ces 7 derniers jours. POURQUOI C'EST IMPORTANTDeux séances manquées en une semaine réduisent fortement le stimulus hebdomadaire et précèdent souvent un décrochage. Manquées 2026-09-23 · Upper A; 2026-09-24 · Lower B; 2026-09-26 · Upper B; 2026-09-27 · Lower A Prévues 4 Réalisées 0 ACTION SUGGÉRÉEDemander la raison des absences avant d'ajuster le programme. Résolu Ignorer"
+    },
+    {
+      "file": "ms02-attention-card-ahmed-narrow.png",
+      "url": "/",
+      "state": "Attention-queue card, Ahmed Benali, 720 px layout (crop, scale 3)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "ms02-attention-card-mehdi-narrow.png",
+      "url": "/",
+      "state": "Attention-queue card, Mehdi Saidi, 720 px layout (crop, scale 3)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "flow-01-morning-queue.png",
+      "url": "/",
+      "state": "Flow 1: Today, attention queue (Ahmed, Mehdi at the top)",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "flow-02-open-client.png",
+      "url": "/clients/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Flow 2: Mehdi Saidi profile, overview (suggested actions with reasons)",
+      "rawKeys": [
+        "common.days28",
+        "client.coach"
+      ]
+    },
+    {
+      "file": "flow-03-why-signals.png",
+      "url": "/clients/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Flow 3: Mehdi, 'Signaux actifs' explaining why (observation / why / data / action)",
+      "rawKeys": [
+        "common.days28",
+        "client.coach"
+      ]
+    },
+    {
+      "file": "flow-04-message-draft.png",
+      "url": "/messages/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Flow 4: conversation with Mehdi, message assistant draft (rule composer, situation 'Reprendre contact', not sent yet)",
+      "rawKeys": []
+    },
+    {
+      "file": "ms01-desk-06-composer-draft.png",
+      "url": "/messages/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Message composer with assisted draft (rule-based), Mehdi Saidi",
+      "rawKeys": []
+    },
+    {
+      "file": "flow-05-message-sent.png",
+      "url": "/messages/cmuojxipp0228uxq4tg0tlyiy",
+      "state": "Flow 5: message sent in-app, visible in the thread (assisted marker)",
+      "rawKeys": []
+    },
+    {
+      "file": "flow-06-marked-done.png",
+      "url": "/",
+      "state": "Flow 6: back on Today after marking Mehdi's next action done (Done clicked); DONE strip + queue",
+      "rawKeys": [
+        "cc.muscles"
+      ]
+    },
+    {
+      "file": "ms01-mob-01-today.png",
+      "url": "/",
+      "state": "Coach Today on phone, top",
+      "rawKeys": [
+        "cc.muscles",
+        "CC.KPIS"
+      ]
+    },
+    {
+      "file": "ms01-mob-01b-today-queue.png",
+      "url": "/",
+      "state": "Coach Today on phone, scrolled to the attention queue",
+      "rawKeys": [
+        "cc.muscles",
+        "CC.KPIS"
+      ]
+    },
+    {
+      "file": "ms01-mob-02-profile-ahmed.png",
+      "url": "/clients/cmuojxa0n001cuxq4qf9a8e84",
+      "state": "Client profile (Ahmed) on phone, top",
+      "rawKeys": [
+        "common.days28",
+        "client.coach"
+      ]
+    },
+    {
+      "file": "ms01-client-01-today.png",
+      "url": "/app",
+      "state": "Client app Today (Sara), top",
+      "rawKeys": [
+        "client.coachLabel",
+        "CLIENT.TODAY.WEEKPROGRESS",
+        "CLIENT.TODAY.STAT.SETS",
+        "CLIENT.TODAY.STAT.TIME",
+        "CLIENT.TODAY.PROGRAM"
+      ]
+    },
+    {
+      "file": "ms01-client-01c-today-session-card.png",
+      "url": "/app",
+      "state": "Crop: client Today 'Séance du jour' card (Sara)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "ms01-client-02-workout.png",
+      "url": "/app/workout/cmuojxdnd0127uxq4nj8gvr4v",
+      "state": "Client workout mode (Sara), start state",
+      "rawKeys": [
+        "client.coachLabel",
+        "WORKOUT.EXERCISES",
+        "WORKOUT.SETS",
+        "WORKOUT.MIN",
+        "WORKOUT.MUSCLESTARGETED",
+        "workout.sets",
+        "WORKOUT.MAINLIFT",
+        "WORKOUT.REST",
+        "WORKOUT.LOGSET",
+        "WORKOUT.WRAPUP",
+        "workout.rpeHint",
+        "workout.min"
+      ]
+    },
+    {
+      "file": "ms01-client-02b-workout-logging.png",
+      "url": "/app/workout/cmuojxdnd0127uxq4nj8gvr4v",
+      "state": "Client workout mode (Sara) after logging 1 set (rest timer)",
+      "rawKeys": [
+        "client.coachLabel",
+        "WORKOUT.EXERCISES",
+        "WORKOUT.SETS",
+        "WORKOUT.MIN",
+        "WORKOUT.MUSCLESTARGETED",
+        "workout.sets",
+        "WORKOUT.MAINLIFT",
+        "WORKOUT.REST",
+        "WORKOUT.LOGSET",
+        "WORKOUT.WRAPUP",
+        "workout.rpeHint",
+        "workout.min"
+      ]
+    },
+    {
+      "file": "ms01-client-02c-workout-sets-crop.png",
+      "url": "/app/workout/cmuojxdnd0127uxq4nj8gvr4v",
+      "state": "Crop: client workout set rows (Sara, 1 set checked)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "ms01-client-03-progress.png",
+      "url": "/app/progress",
+      "state": "Client progress (Sara), top",
+      "rawKeys": [
+        "client.coachLabel",
+        "client.progress.last8w"
+      ]
+    },
+    {
+      "file": "ms01-client-03c-progress-weight-crop.png",
+      "url": "/app/progress",
+      "state": "Crop: client progress 'Poids' panel (Sara)",
+      "rawKeys": [],
+      "clipped": false
+    },
+    {
+      "file": "ms01-client-03d-progress-prs-crop.png",
+      "url": "/app/progress",
+      "state": "Crop: client progress 'Records personnels' panel (Sara)",
+      "rawKeys": [],
+      "clipped": false
+    }
+  ],
+  "problems": []
+}

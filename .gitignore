@@ -1,0 +1,15 @@
+*.db
+*.db-journal
+.env
+.env*.local
+.env.local
+.env.production*
+.next
+e2e-shots
+node_modules
+out
+playwright-report
+tsconfig.tsbuildinfo
+!prisma/seed.db
+
+.vercel

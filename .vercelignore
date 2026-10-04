@@ -1,0 +1,11 @@
+node_modules
+.next
+e2e-shots
+docs
+*.png
+*.log
+prisma/dev.db
+prisma/dev.db-journal
+.env
+.env.*
+tsconfig.tsbuildinfo

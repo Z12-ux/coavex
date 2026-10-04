@@ -1,0 +1,10 @@
+{
+  "name": "COAVEX",
+  "short_name": "COAVEX",
+  "description": "Fitness Coaching Operating System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070907",
+  "theme_color": "#070907",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
